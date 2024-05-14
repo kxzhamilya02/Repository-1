@@ -1,0 +1,16 @@
+p {
+  color: #ba0ea9;
+  letter-spacing: 5px;
+  line-height: 10px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: smaller;
+  font-weight: bolder;
+}
